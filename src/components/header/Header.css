@@ -1,0 +1,7 @@
+.logo {
+    width: 70px;
+    height: 70px;
+    background: url('../../../public/assets/img/logo.webp') center/cover;
+    border-radius: 20px;
+    cursor: pointer;
+}
