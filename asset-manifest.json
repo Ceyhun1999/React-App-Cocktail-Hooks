@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-App-Cocktail-Hooks/static/css/main.ab05b0f3.css",
+    "main.js": "/React-App-Cocktail-Hooks/static/js/main.268de2a4.js",
+    "static/media/logo.webp": "/React-App-Cocktail-Hooks/static/media/logo.e04f1a3ba767c265695a.webp",
+    "index.html": "/React-App-Cocktail-Hooks/index.html",
+    "main.ab05b0f3.css.map": "/React-App-Cocktail-Hooks/static/css/main.ab05b0f3.css.map",
+    "main.268de2a4.js.map": "/React-App-Cocktail-Hooks/static/js/main.268de2a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab05b0f3.css",
+    "static/js/main.268de2a4.js"
+  ]
+}
